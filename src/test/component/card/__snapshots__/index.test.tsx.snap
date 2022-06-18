@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    height={300}
+    src="https://localhost"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+      title="title"
+    >
+      name
+    </div>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      onClick={[Function]}
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+      type="button"
+    >
+      View
+    </button>
+  </div>
+</div>
+`;
