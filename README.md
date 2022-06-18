@@ -32,3 +32,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Setup Notes
 An **env** file is required with the configurations. they is an **env.example** file that contains the required details. 
 If the unit test fails, please update the snapshot with this command **jest --updateSnapshot**
+I spent 3hours building this solution
